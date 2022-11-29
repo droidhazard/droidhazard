@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=droidhazard&" alt="droidhazard" /></p>
 
-<p><img align="center" src="https://raw.githubusercontent.com/droidhazard/droidhazard/main/bike8-white.png" alt="droidhazard" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/droidhazard/droidhazard/main/cd70-dream-product-range-red-1.png" alt="droidhazard" /></p>
