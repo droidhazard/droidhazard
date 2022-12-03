@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali</h1>
-<h3 align="center">I wann buy a cool bike with coding money - (july-17-2022)</h3>
+<h3 align="center">I wann buy a cool bike with coding money - (july-17-2022) (pending)</h3>
 
 - 🔭 I’m currently working on **idk**
 
